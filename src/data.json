@@ -1,0 +1,32 @@
+[
+  {
+    "name": "John Doe",
+    "company": "ABC Corporation",
+    "stars": 4,
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore molestias accusamus aspernatur, asperiores debitis minus. Atque ab placeat vero? Suscipit fugit quo quasi perspiciatis quisquam reiciendis inventore commodi aspernatur quod."
+  },
+  {
+    "name": "Jane Smith",
+    "company": "XYZ Corp",
+    "stars": 5,
+    "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident, modi unde ut est et dolorem non enim accusantium consectetur magni ipsum? Eius accusamus odio autem neque saepe minima at eaque vero deserunt natus nemo pariatur consequuntur."
+  },
+  {
+    "name": "Michael Johnson",
+    "company": "Tech Innovations Inc.",
+    "stars": 3,
+    "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Totam placeat odit magnam earum itaque recusandae unde repellat possimus, nulla rem voluptatem esse, sit porro impedit! Nihil, rerum, corporis laborum quaerat dolore, saepe provident."
+  },
+  {
+    "name": "Emily Brown",
+    "company": "Software Solutions Co.",
+    "stars": 4,
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad odio molestiae pariatur reiciendis sapiente autem voluptas eius minima! Nobis distinctio atque iusto reprehenderit, soluta quis voluptas? Totam, consequatur? Explicabo provident ea doloremque beatae quam rem."
+  },
+  {
+    "name": "David Wilson",
+    "company": "Data Insights Group",
+    "stars": 5,
+    "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae tenetur ex aut debitis labore maxime doloribus voluptas, harum, quas explicabo iure consequuntur illum quaerat consectetur repellendus nam commodi quia blanditiis. Dignissimos debitis adipisci porro odit nobis ratione, quia provident."
+  }
+]
